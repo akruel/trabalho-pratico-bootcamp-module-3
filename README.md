@@ -1,4 +1,4 @@
-# Trabalho Prático do Módulo de ReacJS do Bootcamp FullStack do IGTI
+## Trabalho Prático do Módulo de ReacJS do Bootcamp FullStack do IGTI
 
 ### Enunciado
 Construa, utilizando React, uma aplicação para a calcular o salário líquido a partir
